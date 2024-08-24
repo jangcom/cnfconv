@@ -1,3 +1,7 @@
+This is a forked repo of [cnfconv](https://github.com/messlinger/cnfconv).
+
+---
+
 # cnfconv
 ### Canberra CNF to ASCII file conversion
 
